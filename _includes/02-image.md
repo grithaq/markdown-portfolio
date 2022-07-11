@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image from unsplash](https://unsplash.com/photos/6VPEOdpFNAs)
